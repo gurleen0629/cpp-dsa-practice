@@ -1,2 +1,2 @@
 # cpp-dsa-practice
-c++ and Data Structure &amp; Algorithms practice solutions
+cpp and Data Structure &amp; Algorithms practice solutions
